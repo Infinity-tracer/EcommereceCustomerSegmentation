@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/923674514541096298/010c73e51a204faa9f11fc9b21a7979a/artifacts
+end_time: 1766495009319
+entry_point_name: ''
+experiment_id: '923674514541096298'
+lifecycle_stage: active
+run_id: 010c73e51a204faa9f11fc9b21a7979a
+run_name: redolent-boar-418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766495006864
+status: 3
+tags: []
+user_id: STEALTH

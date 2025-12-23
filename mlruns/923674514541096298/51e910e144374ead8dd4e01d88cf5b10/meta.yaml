@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/923674514541096298/51e910e144374ead8dd4e01d88cf5b10/artifacts
+end_time: 1766494963358
+entry_point_name: ''
+experiment_id: '923674514541096298'
+lifecycle_stage: active
+run_id: 51e910e144374ead8dd4e01d88cf5b10
+run_name: resilient-rook-655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766494962331
+status: 4
+tags: []
+user_id: STEALTH

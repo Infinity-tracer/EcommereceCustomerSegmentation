@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/923674514541096298/eaf131a0b65f43d5a4bffe85b7e07c61/artifacts
+end_time: 1766494959573
+entry_point_name: ''
+experiment_id: '923674514541096298'
+lifecycle_stage: active
+run_id: eaf131a0b65f43d5a4bffe85b7e07c61
+run_name: intrigued-mole-527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766494957162
+status: 3
+tags: []
+user_id: STEALTH

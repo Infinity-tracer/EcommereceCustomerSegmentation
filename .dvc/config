@@ -1,0 +1,10 @@
+[core]
+    remote = myremote
+    autostage = false
+['remote "custseg_dvc_store"']
+    url = gs://custseg_dvc_store
+['remote "dags_data"']
+    url = gs://dags_data
+['remote "myremote"']
+    url = gs://ecommerce-mlops-dvc-store/dvc-store
+    credentialpath = C:\path\to\service-account-key.json

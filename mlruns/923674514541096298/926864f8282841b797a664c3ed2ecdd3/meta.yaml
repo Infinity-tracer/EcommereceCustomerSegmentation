@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/923674514541096298/926864f8282841b797a664c3ed2ecdd3/artifacts
+end_time: 1766495018780
+entry_point_name: ''
+experiment_id: '923674514541096298'
+lifecycle_stage: active
+run_id: 926864f8282841b797a664c3ed2ecdd3
+run_name: worried-donkey-273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766495016493
+status: 3
+tags: []
+user_id: STEALTH

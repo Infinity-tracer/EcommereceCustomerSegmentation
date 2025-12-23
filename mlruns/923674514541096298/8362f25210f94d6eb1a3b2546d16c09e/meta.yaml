@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/923674514541096298/8362f25210f94d6eb1a3b2546d16c09e/artifacts
+end_time: 1766494943676
+entry_point_name: ''
+experiment_id: '923674514541096298'
+lifecycle_stage: active
+run_id: 8362f25210f94d6eb1a3b2546d16c09e
+run_name: adorable-pug-160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766494941180
+status: 3
+tags: []
+user_id: STEALTH

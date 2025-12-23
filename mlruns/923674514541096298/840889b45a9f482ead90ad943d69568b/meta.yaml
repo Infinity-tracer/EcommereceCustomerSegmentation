@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/923674514541096298/840889b45a9f482ead90ad943d69568b/artifacts
+end_time: 1766495004428
+entry_point_name: ''
+experiment_id: '923674514541096298'
+lifecycle_stage: active
+run_id: 840889b45a9f482ead90ad943d69568b
+run_name: zealous-fox-44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766495002230
+status: 3
+tags: []
+user_id: STEALTH

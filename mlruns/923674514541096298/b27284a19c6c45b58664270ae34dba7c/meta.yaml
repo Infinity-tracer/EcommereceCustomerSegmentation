@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/923674514541096298/b27284a19c6c45b58664270ae34dba7c/artifacts
+end_time: 1766494936567
+entry_point_name: ''
+experiment_id: '923674514541096298'
+lifecycle_stage: active
+run_id: b27284a19c6c45b58664270ae34dba7c
+run_name: agreeable-mouse-46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766494929479
+status: 3
+tags: []
+user_id: STEALTH

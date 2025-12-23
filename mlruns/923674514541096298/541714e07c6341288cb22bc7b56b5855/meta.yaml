@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/923674514541096298/541714e07c6341288cb22bc7b56b5855/artifacts
+end_time: 1766495014189
+entry_point_name: ''
+experiment_id: '923674514541096298'
+lifecycle_stage: active
+run_id: 541714e07c6341288cb22bc7b56b5855
+run_name: welcoming-lynx-213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766495011877
+status: 3
+tags: []
+user_id: STEALTH

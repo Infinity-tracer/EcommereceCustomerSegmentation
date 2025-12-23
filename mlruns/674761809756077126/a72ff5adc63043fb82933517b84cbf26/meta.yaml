@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/674761809756077126/a72ff5adc63043fb82933517b84cbf26/artifacts
+end_time: 1766494504246
+entry_point_name: ''
+experiment_id: '674761809756077126'
+lifecycle_stage: active
+run_id: a72ff5adc63043fb82933517b84cbf26
+run_name: KMeans_k5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766494501937
+status: 3
+tags: []
+user_id: STEALTH

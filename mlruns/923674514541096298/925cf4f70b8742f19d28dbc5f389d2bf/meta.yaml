@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/923674514541096298/925cf4f70b8742f19d28dbc5f389d2bf/artifacts
+end_time: 1766495023592
+entry_point_name: ''
+experiment_id: '923674514541096298'
+lifecycle_stage: active
+run_id: 925cf4f70b8742f19d28dbc5f389d2bf
+run_name: receptive-finch-572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766495021201
+status: 3
+tags: []
+user_id: STEALTH

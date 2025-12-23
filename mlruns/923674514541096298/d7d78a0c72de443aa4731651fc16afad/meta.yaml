@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/923674514541096298/d7d78a0c72de443aa4731651fc16afad/artifacts
+end_time: 1766494962320
+entry_point_name: ''
+experiment_id: '923674514541096298'
+lifecycle_stage: active
+run_id: d7d78a0c72de443aa4731651fc16afad
+run_name: abundant-bass-718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766494959584
+status: 3
+tags: []
+user_id: STEALTH

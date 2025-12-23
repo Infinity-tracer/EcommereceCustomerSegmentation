@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/923674514541096298/35f9da327acc4827a65e9da46bc26fbe/artifacts
+end_time: 1766495021191
+entry_point_name: ''
+experiment_id: '923674514541096298'
+lifecycle_stage: active
+run_id: 35f9da327acc4827a65e9da46bc26fbe
+run_name: chill-steed-931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766495018793
+status: 3
+tags: []
+user_id: STEALTH
